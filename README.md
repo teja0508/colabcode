@@ -1,5 +1,7 @@
 # ColabCode
 
+# Credicts: Abhishek Thakur
+
 Run code server on Google Colab or Kaggle Notebooks
 
 Quickstart:
