@@ -1,6 +1,6 @@
 # ColabCode
 
-# Credicts: Abhishek Thakur
+# Credicts: Abhishek Thakur (World's Top 3 Kaggle Grand-Master)
 
 Run code server on Google Colab or Kaggle Notebooks
 
